@@ -25,7 +25,8 @@
 
 ## About Me
 
-<p>I am currently sutdying Applied Analytics at the Columbia University. I am proactive, detail-oriented, and like challenges. Really enjoy working with people, and always want to learn from others, it is always important for me to build communication skills and leadership skills.
+<p>I am currently sutdying Applied Analytics at the Columbia University. I have a strong desire to know and desire to learn, which really motivates me to question and explore the world. Data analysis is kind of natural for me, various data analytics tools empower me to discover more and more hidden information in data, and I have never stopped feeling excited about doing this.
+
 </p>
 
 ## interests

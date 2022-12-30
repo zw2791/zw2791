@@ -25,7 +25,7 @@
 
 ## About Me
 
-<p>I am currently studying Applied Analytics at Columbia University. I have a strong desire to know and desire to learn, which really motivates me to question and explore the world. Data analysis is kind of natural for me, various data analytics tools empower me to discover more and more hidden information in data, and I have never stopped feeling excited about doing this.
+<p>I am an new grad of Applied Analytics major at Columbia University. I have a strong desire to know and desire to learn, which really motivates me to question and explore the world. Data analysis is kind of natural for me, various data analytics tools empower me to discover more and more hidden information in data, and I have never stopped feeling excited about doing this.
 
 </p>
 
